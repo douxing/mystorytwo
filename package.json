@@ -1,0 +1,24 @@
+{
+  "name": "MySiteWithGatsby",
+  "description": "",
+  "version": "0.0.1",
+  "author": "unknown",
+  "dependencies": {
+    "babel-plugin-lodash": "^3.3.2",
+    "font-awesome": "^4.7.0",
+    "gatsby": "^1.9.149",
+    "gatsby-cli": "^1.1.58",
+    "gatsby-image": "^1.0.54",
+    "gatsby-link": "^1.6.32",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-sass": "^1.0.26",
+    "lodash": "^4.17.4",
+    "lodash-webpack-plugin": "^0.11.4",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-helmet": "^5.2.0",
+    "react-md": "^1.4.2",
+    "url-join": "^4.0.0"
+  }
+}
