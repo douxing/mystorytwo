@@ -66,7 +66,7 @@ class Enconv extends React.Component {
                       defaultValue={utf8ToHex(this.utf8)}
                       ref={this.hexRef} />
             <div>
-              <Button raised primary swapTheming onClick={this.convertFromUtf8}>
+              <Button raised primary swapTheming onClick={this.convertFromHex}>
                 Convert 转换
               </Button>
             </div>
